@@ -1,5 +1,13 @@
 # Project 1 - *Wordle Pt. 1 Starter*
 
+<div>
+    <a href="https://www.loom.com/share/a84918d4400c4371a08f58b390c1a5c3">
+    </a>
+    <a href="https://www.loom.com/share/a84918d4400c4371a08f58b390c1a5c3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a84918d4400c4371a08f58b390c1a5c3-2058c85fa8c85046-full-play.gif">
+    </a>
+  </div> 
+  
 Submitted by: **Vanessa Ramirez**
 
 **Wordle Pt. 1 Starter** is an app that ... [TODO] 
