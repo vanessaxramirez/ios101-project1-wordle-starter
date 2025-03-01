@@ -50,8 +50,6 @@ class LetterCell: UICollectionViewCell {
      */
     func set(style: LetterCellStyle) {
         // START YOUR CODE HERE
-        func set(style: LetterCellStyle) {
-            // START YOUR CODE HERE
             switch style {
             case .initial:
                 contentView.backgroundColor = .black
@@ -69,4 +67,3 @@ class LetterCell: UICollectionViewCell {
             // END YOUR CODE HERE
         }
     }
-}
